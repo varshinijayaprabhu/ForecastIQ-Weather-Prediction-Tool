@@ -140,8 +140,7 @@ joblib.dump(et_cls_temp, "et_cls_temp.pkl")
 - Excel reading error: ensure `openpyxl` is installed.
 - “Please fill in all required fields”: all 14 inputs must be non-zero before predicting.
 
-## License and contact
-License: add your preferred license (e.g., MIT).
+## Contact
 
 Designed and developed by Varshini J
 - GitHub: https://github.com/varshinijayaprabhu
