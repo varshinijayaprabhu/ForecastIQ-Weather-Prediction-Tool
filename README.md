@@ -1,5 +1,12 @@
 # ForecastIQ — Weather Prediction Tool
 
+## 🚀 Live Demo
+**Try the app now:** [https://forecastiq-weather-prediction-tool-2025.streamlit.app/](https://forecastiq-weather-prediction-tool-2025.streamlit.app/)
+
+Get instant weather predictions by entering 14 environmental parameters including location, meteorology, and WHO air-quality metrics. Download your personalized weather report as a PDF!
+
+---
+
 ForecastIQ is a Streamlit app and ML workflow for predicting weather from environmental features, with a special focus on the six WHO air-quality indicators. It lets you input 14 features to get rainfall and temperature predictions, and includes a notebook that trains and compares multiple models.
 
 ## Contents
