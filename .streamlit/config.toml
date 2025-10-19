@@ -1,6 +1,0 @@
-[server]
-enableCORS=false
-
-[runner]
-installTrusted=false
-installPackageManager="pip"
