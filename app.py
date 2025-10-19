@@ -262,12 +262,12 @@ def create_pdf_report(input_data, predictions):
         "pressure_mb": "Millibars",
         "uv_index": "UV Index Scale",
         "feels_like_celsius": "Degrees Celsius",
-        "air_quality_Carbon_Monoxide": "μg/m<sup>3</sup>",
-        "air_quality_Ozone": "μg/m<sup>3</sup>",
-        "air_quality_Nitrogen_dioxide": "μg/m<sup>3</sup>",
-        "air_quality_Sulphur_dioxide": "μg/m<sup>3</sup>",
-        "air_quality_PM2.5": "μg/m<sup>3</sup>",
-        "air_quality_PM10": "μg/m<sup>3</sup>"
+        "air_quality_Carbon_Monoxide": "μg/m³",
+        "air_quality_Ozone": "μg/m³",
+        "air_quality_Nitrogen_dioxide": "μg/m³",
+        "air_quality_Sulphur_dioxide": "μg/m³",
+        "air_quality_PM2.5": "μg/m³",
+        "air_quality_PM10": "μg/m³"
     }
     
     input_data_list = [['Parameter', 'Value', 'Description']]
