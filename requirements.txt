@@ -8,3 +8,4 @@ xgboost==2.1.1
 lightgbm==4.5.0
 joblib==1.4.2
 pillow==10.4.0
+reportlab
