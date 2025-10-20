@@ -97,8 +97,6 @@ python -m venv .venv
 2) Install dependencies
 ```powershell
 pip install -r requirements.txt
-# or
-pip install -r requirement.txt
 ```
 3) PDF support (choose one)
 - pdfkit + wkhtmltopdf: install the wkhtmltopdf binary from https://wkhtmltopdf.org/downloads.html and ensure it is in PATH
