@@ -1,5 +1,11 @@
 # ForecastIQ — Weather Prediction Tool
 
+
+
+https://github.com/user-attachments/assets/370fce6a-07a0-4159-bb44-cdbce33b2487
+
+
+
 ## 🚀 Live Demo
 **Try the app now:** [https://forecastiq-weather-prediction-tool-2025.streamlit.app/](https://forecastiq-weather-prediction-tool-2025.streamlit.app/)
 
