@@ -289,18 +289,6 @@ joblib.dump(et_cls_temp,  "et_cls_temp.pkl")
 
 ---
 
-## ❓ Troubleshooting
-
-| Issue | Solution |
-|---|---|
-| **Missing model files** | App will fail on `joblib.load` — train and export the four `.pkl` files and place them next to `app.py` |
-| **PDF generation fails** | Install wkhtmltopdf (pdfkit) or WeasyPrint + system deps; use "Download HTML (fallback)" otherwise |
-| **Version mismatch unpickling** | Ensure `scikit-learn` version matches the one used to create the `.pkl` files |
-| **Excel reading error** | Ensure `openpyxl` is installed (`pip install openpyxl`) |
-| **"Fill in all required fields"** | All 14 inputs must be non-zero before predicting |
-
----
-
 ## 📬 Contact
 
 <div align="center">
